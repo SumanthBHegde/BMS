@@ -1,0 +1,5 @@
+This project was completed through the Devtown Fullstack Course. Due to unforeseen circumstances, I had to rely on recorded classes for two years. 
+The realization of this project was greatly facilitated by Swati Sukla’s insightful post, where she detailed the process and generously provided the Git repository of the source code.
+
+For those interested in viewing her post, you can find it here.
+https://shorturl.at/nswU9
