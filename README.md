@@ -1,4 +1,4 @@
-Book My Show Clone
+Book My Show Clone - This project is Archived
 
 A simplified clone of the popular movie booking platform, built using React.
 
